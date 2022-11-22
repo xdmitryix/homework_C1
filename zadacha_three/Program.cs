@@ -9,4 +9,3 @@ else
 {
     Console.WriteLine("Нет");
 }
-

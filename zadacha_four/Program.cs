@@ -1,4 +1,4 @@
-﻿мConsole.Clear();
+﻿Console.Clear();
 Console.Write("введи число: ");
 int number = int.Parse(Console.ReadLine());
 int count = 1;
